@@ -1,0 +1,69 @@
+spds092
+2520 training images, 588 validation images
+Current device: cuda
+.......model updated (epoch =  1 )
+epoch: 0001 / 0050 | train loss: 1.10738 | train accuracy: 0.3405 | validation loss: 1.09806 | validation accuracy: 0.3350 | time: 12.34 seconds | validation: 2.00 seconds
+.......model updated (epoch =  2 )
+epoch: 0002 / 0050 | train loss: 1.09925 | train accuracy: 0.3484 | validation loss: 1.09663 | validation accuracy: 0.3571 | time: 6.36 seconds | validation: 1.19 seconds
+.......model updated (epoch =  3 )
+epoch: 0003 / 0050 | train loss: 1.10056 | train accuracy: 0.3468 | validation loss: 1.09600 | validation accuracy: 0.4031 | time: 6.84 seconds | validation: 1.23 seconds
+epoch: 0004 / 0050 | train loss: 1.09370 | train accuracy: 0.3611 | validation loss: 1.09121 | validation accuracy: 0.3844 | time: 6.93 seconds | validation: 1.19 seconds
+epoch: 0005 / 0050 | train loss: 1.09439 | train accuracy: 0.3579 | validation loss: 1.09080 | validation accuracy: 0.3588 | time: 11.11 seconds | validation: 1.26 seconds
+epoch: 0006 / 0050 | train loss: 1.07471 | train accuracy: 0.4127 | validation loss: 1.07556 | validation accuracy: 0.4014 | time: 6.82 seconds | validation: 1.28 seconds
+epoch: 0007 / 0050 | train loss: 1.04104 | train accuracy: 0.4222 | validation loss: 1.07009 | validation accuracy: 0.3844 | time: 7.10 seconds | validation: 1.20 seconds
+epoch: 0008 / 0050 | train loss: 0.99719 | train accuracy: 0.4671 | validation loss: 1.15996 | validation accuracy: 0.3622 | time: 6.88 seconds | validation: 1.17 seconds
+epoch: 0009 / 0050 | train loss: 0.94240 | train accuracy: 0.5020 | validation loss: 1.15440 | validation accuracy: 0.3810 | time: 6.88 seconds | validation: 1.21 seconds
+epoch: 0010 / 0050 | train loss: 0.89747 | train accuracy: 0.5377 | validation loss: 1.14463 | validation accuracy: 0.4031 | time: 7.07 seconds | validation: 1.20 seconds
+epoch: 0011 / 0050 | train loss: 0.84563 | train accuracy: 0.5687 | validation loss: 1.21179 | validation accuracy: 0.3776 | time: 6.71 seconds | validation: 1.20 seconds
+.......model updated (epoch =  12 )
+epoch: 0012 / 0050 | train loss: 0.79683 | train accuracy: 0.6103 | validation loss: 1.14576 | validation accuracy: 0.4643 | time: 7.12 seconds | validation: 1.22 seconds
+epoch: 0013 / 0050 | train loss: 0.74579 | train accuracy: 0.6456 | validation loss: 1.14833 | validation accuracy: 0.3997 | time: 6.82 seconds | validation: 1.23 seconds
+epoch: 0014 / 0050 | train loss: 0.71211 | train accuracy: 0.6575 | validation loss: 1.11731 | validation accuracy: 0.3946 | time: 6.70 seconds | validation: 1.19 seconds
+epoch: 0015 / 0050 | train loss: 0.66458 | train accuracy: 0.6758 | validation loss: 6.05655 | validation accuracy: 0.3452 | time: 6.44 seconds | validation: 1.24 seconds
+epoch: 0016 / 0050 | train loss: 0.65300 | train accuracy: 0.6964 | validation loss: 1.21484 | validation accuracy: 0.4218 | time: 6.52 seconds | validation: 1.19 seconds
+epoch: 0017 / 0050 | train loss: 0.58680 | train accuracy: 0.7532 | validation loss: 1.76033 | validation accuracy: 0.4405 | time: 7.08 seconds | validation: 1.37 seconds
+.......model updated (epoch =  18 )
+epoch: 0018 / 0050 | train loss: 0.54868 | train accuracy: 0.7623 | validation loss: 1.24119 | validation accuracy: 0.4796 | time: 6.88 seconds | validation: 1.16 seconds
+epoch: 0019 / 0050 | train loss: 0.52031 | train accuracy: 0.7885 | validation loss: 1.15550 | validation accuracy: 0.4473 | time: 6.60 seconds | validation: 1.21 seconds
+epoch: 0020 / 0050 | train loss: 0.49383 | train accuracy: 0.7885 | validation loss: 1.49258 | validation accuracy: 0.4439 | time: 7.24 seconds | validation: 1.16 seconds
+epoch: 0021 / 0050 | train loss: 0.43964 | train accuracy: 0.8218 | validation loss: 1.78850 | validation accuracy: 0.4524 | time: 6.85 seconds | validation: 1.13 seconds
+epoch: 0022 / 0050 | train loss: 0.41811 | train accuracy: 0.8294 | validation loss: 1.25657 | validation accuracy: 0.4439 | time: 6.83 seconds | validation: 1.24 seconds
+epoch: 0023 / 0050 | train loss: 0.42029 | train accuracy: 0.8286 | validation loss: 1.36970 | validation accuracy: 0.3571 | time: 7.07 seconds | validation: 1.29 seconds
+epoch: 0024 / 0050 | train loss: 0.38046 | train accuracy: 0.8516 | validation loss: 1.29472 | validation accuracy: 0.4592 | time: 6.71 seconds | validation: 1.11 seconds
+epoch: 0025 / 0050 | train loss: 0.31896 | train accuracy: 0.8798 | validation loss: 1.53666 | validation accuracy: 0.3997 | time: 7.04 seconds | validation: 1.27 seconds
+epoch: 0026 / 0050 | train loss: 0.33761 | train accuracy: 0.8710 | validation loss: 1.17201 | validation accuracy: 0.4405 | time: 9.56 seconds | validation: 4.35 seconds
+.......model updated (epoch =  27 )
+epoch: 0027 / 0050 | train loss: 0.28700 | train accuracy: 0.8869 | validation loss: 1.85200 | validation accuracy: 0.4847 | time: 6.51 seconds | validation: 1.21 seconds
+epoch: 0028 / 0050 | train loss: 0.27940 | train accuracy: 0.8968 | validation loss: 2.42686 | validation accuracy: 0.4541 | time: 6.65 seconds | validation: 1.18 seconds
+epoch: 0029 / 0050 | train loss: 0.25374 | train accuracy: 0.9060 | validation loss: 1.36073 | validation accuracy: 0.4830 | time: 7.16 seconds | validation: 1.28 seconds
+.......model updated (epoch =  30 )
+epoch: 0030 / 0050 | train loss: 0.22776 | train accuracy: 0.9139 | validation loss: 1.51087 | validation accuracy: 0.4983 | time: 7.36 seconds | validation: 1.17 seconds
+epoch: 0031 / 0050 | train loss: 0.24395 | train accuracy: 0.9131 | validation loss: 1.75326 | validation accuracy: 0.3810 | time: 6.73 seconds | validation: 1.23 seconds
+epoch: 0032 / 0050 | train loss: 0.17619 | train accuracy: 0.9341 | validation loss: 1.78656 | validation accuracy: 0.4932 | time: 6.77 seconds | validation: 1.22 seconds
+.......model updated (epoch =  33 )
+epoch: 0033 / 0050 | train loss: 0.19280 | train accuracy: 0.9266 | validation loss: 1.64404 | validation accuracy: 0.5017 | time: 7.17 seconds | validation: 1.17 seconds
+epoch: 0034 / 0050 | train loss: 0.15896 | train accuracy: 0.9464 | validation loss: 2.62749 | validation accuracy: 0.4490 | time: 6.79 seconds | validation: 1.21 seconds
+epoch: 0035 / 0050 | train loss: 0.15879 | train accuracy: 0.9377 | validation loss: 1.89907 | validation accuracy: 0.4014 | time: 6.50 seconds | validation: 1.16 seconds
+epoch: 0036 / 0050 | train loss: 0.13850 | train accuracy: 0.9500 | validation loss: 2.89179 | validation accuracy: 0.4898 | time: 6.74 seconds | validation: 1.25 seconds
+epoch: 0037 / 0050 | train loss: 0.14000 | train accuracy: 0.9464 | validation loss: 1.94020 | validation accuracy: 0.4592 | time: 6.93 seconds | validation: 1.24 seconds
+.......model updated (epoch =  38 )
+epoch: 0038 / 0050 | train loss: 0.13911 | train accuracy: 0.9484 | validation loss: 1.84124 | validation accuracy: 0.5119 | time: 6.98 seconds | validation: 1.30 seconds
+.......model updated (epoch =  39 )
+epoch: 0039 / 0050 | train loss: 0.14084 | train accuracy: 0.9468 | validation loss: 2.01616 | validation accuracy: 0.5306 | time: 6.75 seconds | validation: 1.12 seconds
+epoch: 0040 / 0050 | train loss: 0.11005 | train accuracy: 0.9627 | validation loss: 5.63352 | validation accuracy: 0.3946 | time: 6.66 seconds | validation: 1.23 seconds
+epoch: 0041 / 0050 | train loss: 0.10031 | train accuracy: 0.9635 | validation loss: 4.50708 | validation accuracy: 0.4133 | time: 7.24 seconds | validation: 1.21 seconds
+epoch: 0042 / 0050 | train loss: 0.11759 | train accuracy: 0.9575 | validation loss: 3.95570 | validation accuracy: 0.4745 | time: 7.00 seconds | validation: 1.24 seconds
+epoch: 0043 / 0050 | train loss: 0.10410 | train accuracy: 0.9663 | validation loss: 2.16579 | validation accuracy: 0.5289 | time: 6.76 seconds | validation: 1.23 seconds
+epoch: 0044 / 0050 | train loss: 0.09207 | train accuracy: 0.9722 | validation loss: 2.48540 | validation accuracy: 0.4949 | time: 6.87 seconds | validation: 1.13 seconds
+.......model updated (epoch =  45 )
+epoch: 0045 / 0050 | train loss: 0.09127 | train accuracy: 0.9706 | validation loss: 1.80998 | validation accuracy: 0.5408 | time: 6.76 seconds | validation: 1.17 seconds
+epoch: 0046 / 0050 | train loss: 0.09273 | train accuracy: 0.9675 | validation loss: 2.52097 | validation accuracy: 0.5136 | time: 6.81 seconds | validation: 1.16 seconds
+epoch: 0047 / 0050 | train loss: 0.07158 | train accuracy: 0.9762 | validation loss: 2.21547 | validation accuracy: 0.5068 | time: 6.80 seconds | validation: 1.28 seconds
+epoch: 0048 / 0050 | train loss: 0.08234 | train accuracy: 0.9726 | validation loss: 2.04208 | validation accuracy: 0.5051 | time: 6.84 seconds | validation: 1.19 seconds
+epoch: 0049 / 0050 | train loss: 0.07199 | train accuracy: 0.9758 | validation loss: 3.27416 | validation accuracy: 0.5187 | time: 6.84 seconds | validation: 1.22 seconds
+epoch: 0050 / 0050 | train loss: 0.06986 | train accuracy: 0.9754 | validation loss: 2.19480 | validation accuracy: 0.5221 | time: 6.70 seconds | validation: 1.22 seconds
+Model with the best validation accuracy is saved.
+Best epoch:  45
+Best validation accuracy:  0.5408163
+Done.
+Total time:  363.7 seconds
