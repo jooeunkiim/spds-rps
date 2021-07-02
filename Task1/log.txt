@@ -1,0 +1,34 @@
+spds092
+Current device: cuda
+.......model updated (epoch =  1 )
+epoch: 0001 / 0020 | train loss: 1.10191 | train accuracy: 0.3246 | validation loss: 1.09851 | validation accuracy: 0.3333
+epoch: 0002 / 0020 | train loss: 1.10100 | train accuracy: 0.3405 | validation loss: 1.09783 | validation accuracy: 0.3333
+.......model updated (epoch =  3 )
+epoch: 0003 / 0020 | train loss: 1.00731 | train accuracy: 0.4413 | validation loss: 0.76719 | validation accuracy: 0.6263
+.......model updated (epoch =  4 )
+epoch: 0004 / 0020 | train loss: 0.54423 | train accuracy: 0.6762 | validation loss: 0.72025 | validation accuracy: 0.6586
+.......model updated (epoch =  5 )
+epoch: 0005 / 0020 | train loss: 0.35681 | train accuracy: 0.8409 | validation loss: 0.76835 | validation accuracy: 0.7339
+.......model updated (epoch =  6 )
+epoch: 0006 / 0020 | train loss: 0.22262 | train accuracy: 0.9087 | validation loss: 0.33715 | validation accuracy: 0.9059
+epoch: 0007 / 0020 | train loss: 0.12465 | train accuracy: 0.9520 | validation loss: 0.38002 | validation accuracy: 0.8602
+.......model updated (epoch =  8 )
+epoch: 0008 / 0020 | train loss: 0.07046 | train accuracy: 0.9782 | validation loss: 0.22104 | validation accuracy: 0.9247
+.......model updated (epoch =  9 )
+epoch: 0009 / 0020 | train loss: 0.04725 | train accuracy: 0.9861 | validation loss: 0.21996 | validation accuracy: 0.9355
+epoch: 0010 / 0020 | train loss: 0.03525 | train accuracy: 0.9905 | validation loss: 0.29708 | validation accuracy: 0.9167
+epoch: 0011 / 0020 | train loss: 0.02090 | train accuracy: 0.9937 | validation loss: 0.28842 | validation accuracy: 0.9113
+epoch: 0012 / 0020 | train loss: 0.01083 | train accuracy: 0.9976 | validation loss: 0.30556 | validation accuracy: 0.9194
+.......model updated (epoch =  13 )
+epoch: 0013 / 0020 | train loss: 0.00700 | train accuracy: 0.9996 | validation loss: 0.21393 | validation accuracy: 0.9382
+epoch: 0014 / 0020 | train loss: 0.00606 | train accuracy: 0.9992 | validation loss: 0.32634 | validation accuracy: 0.8844
+epoch: 0015 / 0020 | train loss: 0.00265 | train accuracy: 1.0000 | validation loss: 0.29889 | validation accuracy: 0.9301
+epoch: 0016 / 0020 | train loss: 0.00192 | train accuracy: 1.0000 | validation loss: 0.28097 | validation accuracy: 0.9355
+epoch: 0017 / 0020 | train loss: 0.00142 | train accuracy: 1.0000 | validation loss: 0.29392 | validation accuracy: 0.9274
+epoch: 0018 / 0020 | train loss: 0.00120 | train accuracy: 1.0000 | validation loss: 0.34314 | validation accuracy: 0.8952
+epoch: 0019 / 0020 | train loss: 0.00082 | train accuracy: 1.0000 | validation loss: 0.29242 | validation accuracy: 0.9301
+epoch: 0020 / 0020 | train loss: 0.01163 | train accuracy: 0.9948 | validation loss: 0.50704 | validation accuracy: 0.8871
+Model with the best validation accuracy is saved.
+Best epoch:  12
+Best validation accuracy:  0.93817204
+Done.
